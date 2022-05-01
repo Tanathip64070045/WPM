@@ -23,7 +23,9 @@
 #include <windows.h>
 ```
 ## ➡️ Poster 🟤
-![alt text](https://cdn.discordapp.com/attachments/963398817259089961/970340271101456424/1.jpg)
+> * [Poster (download)](https://drive.google.com/drive/folders/1WXJEBurdrSa-XMWix4ImUTYy-2P_aDvL?usp=sharing)
+> 
+>  ![Poster (download)](poster/poster.jpg)
 
 
 คำนำหน้า|ชื่อ | นามสกุล | เลขประจำตัว 
