@@ -13,7 +13,7 @@
 ## ➡️ How it works? 🟣
 >
 
-## ➡️ Tool 🟣
+## ➡️ Tool ⚪️
 ```c
 #include <stdio.h>
 #include <unistd.h>
