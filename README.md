@@ -10,8 +10,6 @@
 >https://www.youtube.com/watch?v=t_vrVh9D7Ug
 ## ➡️ Website 🔵
 >https://tanathip64070045.github.io/web.github.io/
-## ➡️ How it works? 🟣
->
 
 ## ➡️ Tool ⚪️
 ```c
